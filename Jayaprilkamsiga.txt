@@ -1,0 +1,12 @@
+Personal Details
+
+Name          : Jayapril Kamsiga
+Date Of Birth : 04.11.2005
+Gender        : Female
+
+
+Education
+
+University    : Bharathidasan university
+Depaetment    : BCA
+
